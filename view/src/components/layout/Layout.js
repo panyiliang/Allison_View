@@ -123,8 +123,8 @@ function ProLayout(props) {
             </Switch>
           </Content>
           <Footer>
-            <center className="gray f5">©2019 点点医生</center>
-            <center className="gray f5">点点医生出品</center>
+            <center className="gray f5">©2020 Allison_View</center>
+            <center className="gray f5">Allison出品</center>
           </Footer>
 
         </Layout>
