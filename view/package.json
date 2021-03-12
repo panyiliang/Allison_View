@@ -37,7 +37,7 @@
     "raven-for-redux": "^1.4.0",
     "raven-js": "^3.27.2",
     "react": "^16.8.6",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-intl": "^2.4.0",
     "react-redux": "^7.1.0",
